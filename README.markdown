@@ -59,6 +59,3 @@ To use these queries:
 
 ## Contributing
 Feel free to fork this repository, add new queries, or optimize existing ones. Submit pull requests with clear descriptions of changes.
-
-## License
-This project is licensed under the MIT License.
